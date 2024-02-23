@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "QR Generator",
   "description": "The Chrome extention to generate the QR code of the currently tab.",
-  "version": "1.0",
-  "browser_action": {
+  "version": "1.2",
+  "action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
   },
